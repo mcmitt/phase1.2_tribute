@@ -7,7 +7,9 @@ html {
     font-size: small;
 }
 #herta-caption {
-    padding: 20px 20% 0px 20%;
+    font-size: medium;
+    font-style: italic;
+    padding: 10px 5%;
 }
 #herta-img {
     background: white;
@@ -17,7 +19,7 @@ html {
 }
 #herta-img img {
     width: 100%;
-    max-width: 75%;
+    max-width: 80%;
     min-width: 50%;
     display: block;
     height: auto;
@@ -32,17 +34,17 @@ html {
     margin-left: 5%;
     margin-top: 10px
 }
-#sausage {
+#sausage-img {
     display: block;
     margin: 10px auto;
-    width: 180px;
-    height: 90px;
+    max-width: 50%;
+    max-height: 25%;
 }
-#coin {
+#coin-img {
     display: block;
     margin: 10px auto;
-    width: 200px;
-    height: 90px;
+    max-width: 50%;
+    max-height: 30%;
 }
 .footer {
     margin-top: 20px;
@@ -50,4 +52,14 @@ html {
     background-color: white;
     font-size: small;
     text-align: center;
+}
+.plaque-img {
+    width: 50%;
+    height: auto;
+}
+.footer a {
+    font-size: 1.2em;
+}
+.footer-quote {
+    font-style: italic;
 }
