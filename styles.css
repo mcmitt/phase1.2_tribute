@@ -1,6 +1,6 @@
 html {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: lightgray;
+    background-color: rgba(218, 165, 32, 0.514);
 }
 .intro {
     text-align: center;
@@ -50,7 +50,4 @@ html {
     background-color: white;
     font-size: small;
     text-align: center;
-}
-.footer-quote {
-    font-style: italic;
 }
